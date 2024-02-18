@@ -6,9 +6,14 @@ _Class diagram:_
 ---
 
 Mata Kuliah	: Pemrograman Berorientasi Objek
+
 Kelas	: IT502
+
 Prodi	: Informatika
+
 Nama Mahasiswa	: Al Azim
+
 NIM	: 220401070403
+
 
 Untuk memenuhi Ujian Akhir Semester
